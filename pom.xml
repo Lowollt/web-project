@@ -4,7 +4,7 @@
 	<groupId>br.com.netodevel</groupId>
 	<artifactId>spring-boot-cli</artifactId>
 	<version>1.1.0.BUILD-SNAPSHOT</version>
-
+	<!-- anything -->
 	<packaging>pom</packaging>
 	<name>cli-spring-boot-scaffold</name>
 	<description>Generate templates for rapid development</description>
